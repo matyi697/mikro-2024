@@ -36,7 +36,7 @@ A program futtatásához szükséges csomagok telepítéséhez kövesd az alább
 
 1. **Mentés:**
    - Ezt a repot le tudod tölteni, felül ha rákattintasz a zöld `<>code` gombra és letöltöd zip archívumként.
-   <img src="image.png" width="500" />
+   <img src="images/download.png" width="500" />
 
 2. **Futtatás:**
    - Navigálj a parancssorban abba a mappába, ahol a `.py` fájl található:
@@ -53,5 +53,12 @@ A program futtatásához szükséges csomagok telepítéséhez kövesd az alább
 - A program indításakor egy kérdés jelenik meg.
 - Használj a gombokat a válasz megjelenítésére és a következő kérdésre lépéshez.
 - Jelöld meg, hogy tudod-e a kérdést (Tudom) vagy sem (Nem tudom). A program automatikusan frissíti az Excel fájlt a válaszaidnak megfelelően. Ha azt válaszoltad hogy Tudod a kérdést többet nem kérdezi meg.
+
+### Képek a programról
+
+   <img src="images/img1.png"/>
+   <img src="images/img2.png"/>
+
+
 
 #### Sok sik kollégák uwu, ha kérdés van nyugodtan nyissatok issue-t itt gitHubon, vagy irjatok.
