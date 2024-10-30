@@ -35,7 +35,8 @@ A program futtatásához szükséges csomagok telepítéséhez kövesd az alább
 ### 4. A program futtatása
 
 1. **Mentés:**
-   - Másold a fent megadott programkódot egy `.py` fájlba, például `mikroelektronika.py` néven.
+   - Ezt a repot le tudod tölteni, felül ha rákattintasz a zöld `<>code` gombra és letöltöd zip archívumként.
+   <img src="image.png" width="500" />
 
 2. **Futtatás:**
    - Navigálj a parancssorban abba a mappába, ahol a `.py` fájl található:
